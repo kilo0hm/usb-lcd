@@ -3,4 +3,6 @@ Connect a HD44780 LCD to USB, via the CH341A IC. This LCD can interface with LCD
 
 See my prototype version working [here](https://www.youtube.com/shorts/TWgQVQCoLs0).
 
+The PCB layout is inspired by the I2C adapter boards commonly found online. It will fit on the back any 16 pin LCD module with a HD44780 (or compatible) driver.
+
 This project was made using the documentation and plugins from ABACOM. You can buy their USB LCD, as well as see all the documentation [here](https://www.electronic-software-shop.com/hardware/usb-lcd-display-4x20-zeichen-gruen.html).
