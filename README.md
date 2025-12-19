@@ -1,7 +1,7 @@
 # usb-lcd
-Connect a HD44780 LCD to USB, via the CH341A IC. This adapter can interface with LCD Smartie, LCDHype, and AIDA64 on Windows. Linux support should be possible too.
+Connect a HD44780 LCD to USB, via the CH341 IC. This adapter can interface with LCD Smartie, LCDHype, and AIDA64 on Windows. Linux support should be possible too.
 
-See my prototype version working [here](https://www.youtube.com/shorts/TWgQVQCoLs0), and the Rev.A pcb [here](https://www.youtube.com/watch?v=QafS92o0JMY).
+See my prototype version working [here](https://www.youtube.com/shorts/TWgQVQCoLs0), and the Rev.A PCB working [here](https://www.youtube.com/watch?v=QafS92o0JMY).
 
 The PCB layout is inspired by the I2C adapter boards commonly found online. It should fit on the back any 16 pin LCD module with a HD44780 (or compatible) driver.
 
